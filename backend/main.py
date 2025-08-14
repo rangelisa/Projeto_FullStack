@@ -59,3 +59,4 @@ def api02():
         return {"error": "dados.json não encontrado"}
     except json.JSONDecodeError:
         return {"error": "Erro ao decodificar o JSON"}
+# certo
