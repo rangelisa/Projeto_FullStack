@@ -1,0 +1,34 @@
+{
+  "curriculo": {
+    "nome": "Isabella Rangel",
+    "cargo": "Estagiária em Engenharia de Dados",
+    "contato": {
+      "email": "isinharangel01@gmail.com",
+      "telefone": "(11) 95679-0214"
+    },
+    "habilidades": [
+      "Java",
+      "Dados - SQL,MySQL,MongoDB",
+      "Docker",
+      "Angular",
+      "Python p/ Data Science"
+    ],
+    "experiencia": [
+      {
+        "empresa": "Fastvac",
+        "periodo": "2024 - 2025",
+        "cargo": "Auxiliar Administrativo"
+      },
+      {
+        "empresa": "Bulk Consulting",
+        "periodo": "2025 - momento",
+        "cargo": "Estagiária em Engenharia de Dados"
+      }
+    ],
+    "educacao": {
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Centro Universitário Senac",
+      "ano de formação": 2026
+    }
+  }
+}
